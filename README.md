@@ -1,3 +1,22 @@
 # Klipper Adaptive Meshing &amp; Purging for K1 Series
 
-See how to use it here: [Installation Helper Script for Creality K1 Series](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Use-KAMP)
+<br />
+
+## Installation
+
+See my Wiki here: [Installation Helper Script for Creality K1 Series](https://github.com/Guilouz/Creality-K1-and-K1-Max/wiki/Use-KAMP)
+
+<br />
+
+## Features
+
+- Compatibility with K1 and K1 Max
+- Fixed out of range error in some cases
+- Fixed error when mesh is not square (limitation of K1 printers)
+
+<br />
+
+## Credits
+
+- [PA3GMT](https://github.com/PA3GMT)
+- [3dimman](https://github.com/3dimman)
