@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <br>
   <img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/blob/main/Photos/Logo/KAMP-Logo.png?raw=true" width="260"></a>
