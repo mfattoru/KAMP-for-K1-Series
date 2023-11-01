@@ -18,5 +18,6 @@ See my Wiki here: [Installation Helper Script for Creality K1 Series](https://gi
 
 ## Credits
 
+- [kyleisah](https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging)
 - [PA3GMT](https://github.com/PA3GMT)
 - [3dimman](https://github.com/3dimman)
