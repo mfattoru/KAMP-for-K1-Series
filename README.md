@@ -1,4 +1,11 @@
-# Klipper Adaptive Meshing &amp; Purging for K1 Series
+
+<h1 align="center">
+  <br>
+  <img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/blob/main/Photos/Logo/KAMP-Logo.png?raw=true" width="260"></a>
+  <br>
+    Klipper Adaptive Meshing & Purging
+  <br>
+</h1>
 
 <br />
 
