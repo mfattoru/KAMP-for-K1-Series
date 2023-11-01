@@ -3,7 +3,7 @@
   <br>
   <img src="https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging/blob/main/Photos/Logo/KAMP-Logo.png?raw=true" width="260"></a>
   <br>
-    Klipper Adaptive Meshing & Purging
+    Klipper Adaptive Meshing & Purging for Creality K1 Series
   <br>
 </h1>
 
