@@ -19,6 +19,7 @@ See my Wiki here: [Installation Helper Script for Creality K1 Series](https://gi
 - Compatibility with K1 and K1 Max
 - Fixed out of range error in some cases
 - Fixed error when mesh is not square (limitation of K1 printers)
+- Possibility to add it in Update Manager
 
 <br />
 
